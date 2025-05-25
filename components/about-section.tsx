@@ -83,10 +83,6 @@ export function AboutSection() {
                 </div>
                 
                 <div className="grid grid-cols-2 gap-4 mt-8">
-                  <div className="bg-muted p-4 rounded-md text-center group hover:bg-primary/10 transition-colors duration-300 animate-float">
-                    <h4 className="text-3xl font-bold text-primary group-hover:scale-110 transition-transform duration-300">2+</h4>
-                    <p className="text-sm text-gray-400 group-hover:text-gray-300 transition-colors duration-300">Years of Experience</p>
-                  </div>
                   <div className="bg-muted p-4 rounded-md text-center group hover:bg-secondary/10 transition-colors duration-300 animate-float" style={{ animationDelay: '2s' }}>
                     <h4 className="text-3xl font-bold text-secondary group-hover:scale-110 transition-transform duration-300">10+</h4>
                     <p className="text-sm text-gray-400 group-hover:text-gray-300 transition-colors duration-300">Projects Completed</p>
