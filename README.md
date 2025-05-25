@@ -37,7 +37,7 @@ EMAIL_TO=your_gmail@gmail.com
 ```sh
 npm run dev
 ```
-Visit [http://localhost:3000](http://localhost:3000) to view your site.
+Visit (https://lalith-portfolio.vercel.app/) to view your site.
 
 ## Deployment
 
