@@ -27,7 +27,7 @@ const achievements: AchievementProps[] = [
   {
     title: "National Level Winner Award – Annual Day Recognition",
     prize: "₹3,000",
-    description: "Honored for impactful technical innovation in developing an AI-based water conservation system.",
+    description: "Recognized at the national level during the Annual Day celebration for exceptional innovation and technical excellenc",
     image: "/images/annual_day_award.png",
   },
 ];
